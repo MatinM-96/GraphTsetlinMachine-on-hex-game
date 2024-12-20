@@ -16,7 +16,8 @@ The dataset for this project is generated using the `generateData.ipynb` noteboo
 
 ### Note
 
-We have not run the updated 7x7 board size code after recent modifications (removal of all comments and unnecessary code). Therefore, the graphs and results included in the report are based on the 13x13 board size data.
+
+We have not run the updated code for the 7x7, 10x10, and 13x13 board sizes because we did not have enough time after recent modifications (removal of all comments and unnecessary code). The updated code, which was not run, includes two moves from the start and five moves before the end for the 13x13 board.
 
 ---
 
